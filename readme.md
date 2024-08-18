@@ -9,6 +9,9 @@ My professional profile on GitHub.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://hcode.com.br/cursos/JSFULL)<br>
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://hcode.com.br/cursos/PHP)<br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://hcode.com.br/cursos/MySQL)<br>
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://hcode.com.br/cursos/Bootstrap)<br>
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://hcode.com.br/cursos/jQuery)<br>
+
 
 
 
